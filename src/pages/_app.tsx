@@ -5,6 +5,7 @@ import { useRouter } from 'next/router';
 import { PostHogProvider } from 'posthog-js/react'; // Import PostHog Provider
 import posthog from 'posthog-js'; // Import PostHog
 import { GoogleTagManager } from '@next/third-parties/google'; // Assuming you have this package
+import { Analytics } from "@vercel/analytics/react"
 
 import type { AppProps } from 'next/app';
 
