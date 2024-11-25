@@ -1,3 +1,10 @@
+# PG Dissertation System  
+
+The **Postgraduate Dissertation System** is a modern web platform designed to streamline interactions between students and mentors while managing paper submissions, visitor engagement, and user analytics. Built with **TypeScript**, **Next.js**, and **Tailwind CSS**, the system is deployed on **Vercel** for scalability and performance. It features role-based access for students and mentors, enabling efficient paper submission and review workflows.  
+
+The system is connected to a **MongoDB** database for secure data storage and integrates with **Google Analytics 4 (GA4)** and **PostHog** for advanced tracking of user interactions, page views, and session durations. These analytics provide actionable insights into user behavior, enabling better resource allocation and improved user experiences.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
